@@ -72,7 +72,10 @@ RUL 预测模型训练与测试（RF / XGBoost / LSTM）
 
 ![RUL 预测可视化](results/RUL_prediction.png)
 
-[MAE 对比图](results/model_comparison.png) · [RMSE 对比图](results/model_rmse_comparison.png)
+<p align="center">
+  <img src="results/model_comparison.png" width="48%">
+  <img src="results/model_rmse_comparison.png" width="48%">
+</p>
 
 ## 4. 故障注入与鲁棒性分析
 
