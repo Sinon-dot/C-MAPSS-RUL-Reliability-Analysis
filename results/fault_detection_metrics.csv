@@ -1,0 +1,3 @@
+Condition,Precision,Recall,F1,True_Anomalies,Detected_Anomalies
+Missing 20%,1.0,1.0,1.0,36668,36668
+Sensor 11 Stuck,1.0,0.851,0.9195029713668288,2000,1702
